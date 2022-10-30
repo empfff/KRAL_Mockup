@@ -1,2 +1,2 @@
 # KRAL_Mockup
-An example GitHub repo to illustrate the KRAL.
+Code to link EHR w/ environment and SDoH data.
