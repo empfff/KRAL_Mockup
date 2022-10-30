@@ -1,2 +1,2 @@
 # KRAL_Mockup
-An example GitHub repo to illustrate the KRAL.
+Code to define chronic kidney disease in data.
